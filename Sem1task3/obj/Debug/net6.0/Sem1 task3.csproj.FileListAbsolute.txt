@@ -1,0 +1,30 @@
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.csproj.AssemblyReference.cache
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.AssemblyInfoInputs.cache
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.AssemblyInfo.cs
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.csproj.CoreCompileInputs.cache
+C:\Users\123\3588\seminar_31\Sem1 task3\bin\Debug\net6.0\Sem1 task3.exe
+C:\Users\123\3588\seminar_31\Sem1 task3\bin\Debug\net6.0\Sem1 task3.deps.json
+C:\Users\123\3588\seminar_31\Sem1 task3\bin\Debug\net6.0\Sem1 task3.runtimeconfig.json
+C:\Users\123\3588\seminar_31\Sem1 task3\bin\Debug\net6.0\Sem1 task3.dll
+C:\Users\123\3588\seminar_31\Sem1 task3\bin\Debug\net6.0\Sem1 task3.pdb
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.dll
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\refint\Sem1 task3.dll
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.pdb
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\Sem1 task3.genruntimeconfig.cache
+C:\Users\123\3588\seminar_31\Sem1 task3\obj\Debug\net6.0\ref\Sem1 task3.dll
+C:\Users\123\3588\seminar_31\Sem1task3\bin\Debug\net6.0\Sem1 task3.exe
+C:\Users\123\3588\seminar_31\Sem1task3\bin\Debug\net6.0\Sem1 task3.deps.json
+C:\Users\123\3588\seminar_31\Sem1task3\bin\Debug\net6.0\Sem1 task3.runtimeconfig.json
+C:\Users\123\3588\seminar_31\Sem1task3\bin\Debug\net6.0\Sem1 task3.dll
+C:\Users\123\3588\seminar_31\Sem1task3\bin\Debug\net6.0\Sem1 task3.pdb
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.csproj.AssemblyReference.cache
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.AssemblyInfoInputs.cache
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.AssemblyInfo.cs
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.csproj.CoreCompileInputs.cache
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.dll
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\refint\Sem1 task3.dll
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.pdb
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\Sem1 task3.genruntimeconfig.cache
+C:\Users\123\3588\seminar_31\Sem1task3\obj\Debug\net6.0\ref\Sem1 task3.dll
