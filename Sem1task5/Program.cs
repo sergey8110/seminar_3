@@ -1,8 +1,8 @@
 ﻿// Считываем данные с консоли
-string? inputLine= Console.ReadLine();
+string? inputLine = Console.ReadLine();
 
 // Проверяем, чтобы данные были не  пустыми
-if(inputLine!=null)
+if(inputLine !=null)
 {
     // Парсим введенное число
     int inputNumber = int.Parse(inputLine);
@@ -10,10 +10,10 @@ if(inputLine!=null)
     int startNumber = inputNumber*(-1);
 
     // Выводим значение
-    string outline =string.Empty;
+    string outline = string.Empty;
     while(startNumber<inputNumber)
     {
-        outline =outline +startNumber + "," ;
+        outline = outline + startNumber + "," ;
         startNumber++;
 
     }
